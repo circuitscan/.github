@@ -4,3 +4,5 @@ Circuitscan is a circuit verifier explorer. Like verified contracts, a verified 
 
 > [!NOTE]
 > While the demo at [`circuitscan.clonk.me`](https://circuitscan.clonk.me) still works, it has been replaced with a new site at [`circuitscan.org`](https://circuitscan.org).
+
+See development progress on the [roadmap](https://docs.google.com/spreadsheets/d/1r22REpvo1jRHmiWcIwlbdT8QI7kh8DBKz21RHFhDz0E/edit?usp=sharing)
